@@ -4,5 +4,5 @@ This is a codebase for the Nucleo F401RE board to control a traxxas slash using 
 
 # ToDo
 
-Move the codebase to a RTOS
+Move the codebase to ChibiOS
 
